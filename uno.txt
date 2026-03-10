@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 uno global
+=======
+dos
+>>>>>>> fc97acbc5c3b9e1ad6d6b2cd70410a8c584e8805
